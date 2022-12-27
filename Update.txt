@@ -7,3 +7,4 @@ Now this part is to test by branch "testcode"..
 
 Just added a new feature to test. Do you like it?
 
+Line added in master branch to test merge conflict 
