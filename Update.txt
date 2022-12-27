@@ -7,4 +7,3 @@ Now this part is to test by branch "testcode"..
 
 Just added a new feature to test. Do you like it?
 
-Code is edited in testcode2 branch
