@@ -12,3 +12,5 @@ Line added in testcode branch to check merger conflict.
 Added the line github code editor.
 
 Added the line to check the pull command on github. This is edited in github code editor.
+
+Now this line added in local repo to check push command.
