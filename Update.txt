@@ -10,3 +10,5 @@ Just added a new feature to test. Do you like it?
 Line added in testcode branch to check merger conflict.
 
 Added the line github code editor.
+
+Added the line to check the pull command on github. This is edited in github code editor.
